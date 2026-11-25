@@ -1,0 +1,5 @@
+import PageSectionsManager from "../../features/page-sections/PageSectionsManager";
+
+export default function HomeContentPage() {
+  return <PageSectionsManager page="home" />;
+}
